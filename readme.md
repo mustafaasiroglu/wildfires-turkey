@@ -15,15 +15,27 @@ An sample Power BI Dashboard is designed to visualize these data sources and thi
 
 # Dashboard Sections
 
+_Home Page with Wildfire and Forest Areas Trend:_
+
+![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-1.png)
+
 _Latest wildfires by location, risk level, status and date:_
 
-![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/dashboard2.png)
+![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-2.png)
+
+_Alternate View: Latest wildfires by location, risk level, status and date:_
+
+![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-3.png)
 
 _Historic wildfires from last 15 years by location, reason, size and year:_
 
-![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/dashboard2.png)
+![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-4.png)
 
-All data on the dashboard are collected and prepared for demo purpose and it may contain data quality issues or calculation mistakes. It is not allowed to use them as official data source.
+_Historic forest and agriculture areas growth from last 25 years by category and year:_
+
+![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-5.png)
+
+All data on the dashboard are collected and prepared for demo purpose and it may contain data quality issues or calculation mistakes. It is not allowed and not recommended to use them as official data source.
 
 You can share your correction and improvement feedbacks in this repository.
 
