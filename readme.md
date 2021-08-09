@@ -4,7 +4,8 @@ This repository includes sample data sources and reports regarding wildfires in 
 
 Microsoft Power BI tool is utilized to visualize these data sources and design the interactive dashboard.
 
-**Live Dashboard: https://aka.ms/wildfires-turkey-dashboard**
+**Live Dashboard: 
+https://aka.ms/wildfires-turkey-dashboard**
 
 ---
 
