@@ -11,7 +11,8 @@ https://www.ogm.gov.tr/tr/e-kutuphane/resmi-istatistikler
 Satalite tile images on map visuals:
 https://www.bing.com/maps/
 
-An sample Power BI Dashboard is designed to visualize these data sources and this dashboard is available live at https://aka.ms/wildfires-turkey-dashboard.
+An sample Power BI Dashboard is designed to visualize these data sources is available live at:
+https://aka.ms/wildfires-turkey-dashboard.
 
 # Dashboard Sections
 
