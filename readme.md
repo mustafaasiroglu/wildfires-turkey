@@ -2,9 +2,9 @@
 
 This repository includes sample data sources and reports regarding wildfires in Turkey from various sources including below links. 
 
-An sample Power BI Dashboard is designed to visualize these data sources and it is available live at:
+Microsoft Power BI is utilized to visualize these data sources and design an interactive dashboard.
 
-**https://aka.ms/wildfires-turkey-dashboard.**
+**Live Dashboard: https://aka.ms/wildfires-turkey-dashboard**
 
 
 **Datasources:**
