@@ -1,16 +1,16 @@
 # Wildfires In Turkey Dashboard
 
-This repository includes sample data sources and reports regarding wildfires in Turkey from various sources including below links. 
+This repository includes sample data sources and reports regarding wildfires in Turkey from various sources. 
 
-Microsoft Power BI is utilized to visualize these data sources and design an interactive dashboard.
+Microsoft Power BI tool is utilized to visualize these data sources and design the interactive dashboard.
 
 **Live Dashboard: https://aka.ms/wildfires-turkey-dashboard**
 
 ---
 
-**Datasources:**
+**Data Sources:**
 
-Latest wildfires:
+Latest Wildfires:
 https://www.ogm.gov.tr/tr/orman-yanginlari
 
 Forest Fire Statistics in Turkey: 
@@ -20,32 +20,31 @@ Satalite tile images on map visuals:
 https://www.bing.com/maps/
 
 
-
 # Dashboard Sections
 
-_Home Page with Wildfire and Forest Areas Trend:_
+_Home Page: Trend of Wildfires and Forest Area Growth_
 
 ![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-1.png)
 
-_Latest wildfires by location, risk level, status and date:_
+_Latest wildfires by location, risk level, status and date_
 
 ![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-2.png)
 
-_Alternate View: Latest wildfires by location, risk level, status and date:_
+_Alternate View: Latest wildfires by location, risk level, status and date_
 
 ![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-3.png)
 
-_Historic wildfires from last 15 years by location, reason, size and year:_
+_History of wildfires from last 15 years by location, reason, size and year_
 
 ![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-4.png)
 
-_Historic forest and agriculture areas growth from last 25 years by category and year:_
+_History of forest and agriculture area growth from last 25 years by category_
 
 ![](https://github.com/mustafaasiroglu/wildfires-turkey/blob/main/screenshot-5.png)
 
-All data on the dashboard are collected and prepared for demo purpose and it may contain data quality issues or calculation mistakes. It is not allowed and not recommended to use them as official data source.
+All data on the dashboard is collected and prepared for demo purposes and it may contain data quality issues or calculation mistakes. It is not allowed and not recommended to use them as official data source.
 
-You can share your correction and improvement feedbacks in this repository by openning an issue.
+You can share your corrections and improvement feedbacks in this repository by openning an issue.
 
 # Future Works:
 
