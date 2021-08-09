@@ -6,6 +6,7 @@ Microsoft Power BI is utilized to visualize these data sources and design an int
 
 **Live Dashboard: https://aka.ms/wildfires-turkey-dashboard**
 
+---
 
 **Datasources:**
 
