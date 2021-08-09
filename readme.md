@@ -1,6 +1,6 @@
 # Wildfires In Turkey Dashboard
 
-This repository includes sample data sources regarding wildfires in Turkey from various sources including below links. 
+This repository includes sample data sources and reports regarding wildfires in Turkey from various sources including below links. 
 
 Latest wildfires:
 https://www.ogm.gov.tr/tr/orman-yanginlari
@@ -12,7 +12,8 @@ Satalite tile images on map visuals:
 https://www.bing.com/maps/
 
 An sample Power BI Dashboard is designed to visualize these data sources is available live at:
-https://aka.ms/wildfires-turkey-dashboard.
+
+**https://aka.ms/wildfires-turkey-dashboard.**
 
 # Dashboard Sections
 
