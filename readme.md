@@ -37,7 +37,7 @@ _Historic forest and agriculture areas growth from last 25 years by category and
 
 All data on the dashboard are collected and prepared for demo purpose and it may contain data quality issues or calculation mistakes. It is not allowed and not recommended to use them as official data source.
 
-You can share your correction and improvement feedbacks in this repository.
+You can share your correction and improvement feedbacks in this repository by openning an issue.
 
 # Future Works:
 
