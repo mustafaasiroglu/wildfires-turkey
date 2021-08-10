@@ -47,7 +47,7 @@ All data on the dashboard is collected and prepared for demo purposes and it may
 
 You can share your corrections and improvement feedbacks in this repository by openning an issue.
 
-# Future Works:
+# Future Works
 
 In the next stage, it is aimed to carry out instant fire location and burning area detection studies from detailed satellite images published daily. If you want to support similar studies via https://www.sentinel-hub.com/explore/eobrowser/ data or other sources, you can send a message. Additionally, we may diversify the data sources within the report if you share additional dataset sources that may be relevant to this topic.
 
