@@ -14,8 +14,11 @@ https://aka.ms/wildfires-turkey-dashboard**
 Latest Wildfires:
 https://www.ogm.gov.tr/tr/orman-yanginlari
 
-Forest Fire Statistics in Turkey: 
+Forest Fire Statistics in Turkey: (Sample included in this repo) 
 https://www.ogm.gov.tr/tr/e-kutuphane/resmi-istatistikler
+
+Forest & Agriculture Areas in Turkey: (Sample included in this repo) 
+https://data.tuik.gov.tr/Search/Search?text=orman
 
 Satalite tile images on map visuals:
 https://www.bing.com/maps/
